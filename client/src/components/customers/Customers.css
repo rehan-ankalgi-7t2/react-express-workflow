@@ -1,0 +1,12 @@
+ul {
+    padding: 0;
+    margin: auto;
+    list-style: none;
+    text-align: left;
+}
+
+li {
+    font-size: .8rem;
+    line-height: 2.4rem;
+    border-bottom: 2px dotted white;
+}
